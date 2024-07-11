@@ -4,4 +4,4 @@
  Note: This program is made using basic C concepts.
   </p>
 <br>
-<p>Note : Run the above code in " Geany ".<br> All the above mentioned projects are executing well without any errors. </p>
+<p>Note : Run the above code in " Geany ".<br> It is executing well without any errors. </p>
